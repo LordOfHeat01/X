@@ -1,1 +1,1 @@
-cout << helllo;
+using namespace std;
